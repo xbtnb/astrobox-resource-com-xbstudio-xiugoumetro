@@ -1,0 +1,96 @@
+{
+  "item": {
+    "id": "com.xbstudio.xiugoumetro",
+    "restype": "quick_app",
+    "name": "修狗地铁逃生",
+    "description": "选好战备，进入地铁区域搜寻物资，处理遭遇的敌人，并赶往撤离区。成功撤离后整理战利品、补充装备，再开始下一次行动。",
+    "preview": [
+      "media/73792.png",
+      "media/73793.png",
+      "media/73791.png"
+    ],
+    "icon": "media/73789.png",
+    "cover": "media/73790.jpg",
+    "author": [
+      {
+        "name": "18501",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://xbgw.sxb.asia",
+      "icon": "globe"
+    },
+    {
+      "title": "激活同步器",
+      "url": "https://wwbav.lanzouu.com/isJlB4f2jsod",
+      "icon": "download-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_红米手表4-5-6_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmrw5xring": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_红米手表4-5-6_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmrw6": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_红米手表4-5-6_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmb10": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_手环9-10-11_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmb10nfc": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_手环9-10-11_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmb10p": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_9Pro-10Pro_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmb11": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_手环9-10-11_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmb11nfc": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_手环9-10-11_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmb9": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_手环9-10-11_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmb9p": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_9Pro-10Pro_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmws4": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_小米S4-S5_1.0.171.rpk",
+      "versionCode": 171
+    },
+    "xmws5": {
+      "version": "1.0.171",
+      "file_name": "downloads/修狗地铁逃生_小米S4-S5_1.0.171.rpk",
+      "versionCode": 171
+    }
+  },
+  "ext": {}
+}
